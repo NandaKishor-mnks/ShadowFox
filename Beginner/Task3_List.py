@@ -18,8 +18,8 @@ print("\nAfter making Wonder Woman the leader:", justice_league)
 # 4. Separate Aquaman and Flash
 # Choosing "Green Lantern" to place between them
 justice_league.remove("Green Lantern")
-flash_index = justice_league.index("Flash")
-justice_league.insert(flash_index + 1, "Green Lantern")
+flash_index=justice_league.index("Flash")
+justice_league.insert(flash_index+1,"Green Lantern")
 print("\nAfter separating Aquaman and Flash:", justice_league)
 
 # 5. Replace the list with new members
