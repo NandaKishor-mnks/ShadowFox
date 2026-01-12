@@ -1,5 +1,4 @@
 # Program 1: BMI Category Finder
-
 height = float(input("Enter height in meters: "))
 weight = float(input("Enter weight in kilograms: "))
 
@@ -15,7 +14,6 @@ else:
     print("Underweight")
 
 # Program 2: City to Country Identifier
-
 Australia = ["Sydney", "Melbourne", "Brisbane", "Perth"]
 UAE = ["Dubai", "Abu Dhabi", "Sharjah", "Ajman"]
 India = ["Mumbai", "Bangalore", "Chennai", "Delhi"]
@@ -32,7 +30,6 @@ else:
     print("City not found in the list")
 
 # Program 3: Check if two cities belong to the same country
-
 Australia = ["Sydney", "Melbourne", "Brisbane", "Perth"]
 UAE = ["Dubai", "Abu Dhabi", "Sharjah", "Ajman"]
 India = ["Mumbai", "Bangalore", "Chennai", "Delhi"]
