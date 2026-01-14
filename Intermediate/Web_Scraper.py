@@ -2,8 +2,8 @@ import requests
 from bs4 import BeautifulSoup
 
 try:
-    # 1. Website URL (you can change to ShadowFox site if given)
-    url = "https://example.com"
+    # 1. Website URL 
+    url = "https://shadowfox.in"
 
     # 2. Get website data
     response = requests.get(url)
